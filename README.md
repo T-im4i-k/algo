@@ -1,0 +1,1 @@
+The project implements a library containing some popular algorithms and data structures.
