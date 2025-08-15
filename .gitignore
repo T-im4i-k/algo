@@ -29,3 +29,6 @@ tests/
 # Ignore tmp and log files
 *.log
 *.tmp
+
+# Ignore CMakeUserPresets.json
+CMakeUserPresets.json
