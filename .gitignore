@@ -1,0 +1,31 @@
+# Ignore VsCode files
+.vscode/
+
+# Ignore JetBrains files
+.idea/
+
+# Ignore build directories
+build/
+bin/
+
+# Ignore test directories
+test/
+tests/
+
+# Ignore binary files
+*.out
+*.obj
+*.o
+*.exe
+*.a
+*.so
+*.lib
+*.dll
+*.dylib
+
+# Ignore dependency files
+*.d
+
+# Ignore tmp and log files
+*.log
+*.tmp
