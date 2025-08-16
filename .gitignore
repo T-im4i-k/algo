@@ -8,10 +8,6 @@
 build/
 bin/
 
-# Ignore test directories
-test/
-tests/
-
 # Ignore binary files
 *.out
 *.obj
